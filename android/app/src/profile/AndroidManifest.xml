@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.breastcancer">
+
+    <!-- INTERNET permission for development -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- CAMERA permission -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- ... (other elements in the manifest) ... -->
+
+</manifest>
