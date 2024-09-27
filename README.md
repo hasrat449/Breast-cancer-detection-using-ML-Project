@@ -1,16 +1,5 @@
-# untitled
+#Breast-cancer-detection-using-MLBreast-cancer-detection-using-ML
 
-A new Flutter project.
+Breast Cancer Detection using Machine Learning Project Overview: This project aims to detect breast cancer using machine learning. The solution consists of a Flutter frontend (mobile app), a Flask backend (connecting Flutter to Python code), and a Jupyter Notebook for training and testing the machine learning model.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies: Flutter: Mobile app frontend. Flask: Backend API to connect Flutter with the machine learning model. Jupyter Notebook: Python code for training the breast cancer detection model using machine learning. Project Structure: flutter_app/: Contains the Flutter code for the mobile app. flask_api/: Contains the Flask backend code to handle API requests. notebooks/: Contains the Jupyter Notebook with the machine learning code for breast cancer detection.
